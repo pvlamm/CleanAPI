@@ -9,11 +9,17 @@
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
 
     <!-- Set this to true if you enable server-side prerendering -->
-    <BuildServerSideRenderer>false</BuildServerSideRenderer>
+    <BuildServerSideRenderer>true</BuildServerSideRenderer>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\lib\CleanAPI.Core\CleanAPI.Core.csproj" />
+    <ProjectReference Include="..\..\lib\CleanAPI.Core.Service\CleanAPI.Core.Service.csproj" />
+    <ProjectReference Include="..\..\lib\CleanAPI.Interfaces\CleanAPI.Interfaces.csproj" />
   </ItemGroup>
 
   <ItemGroup>
