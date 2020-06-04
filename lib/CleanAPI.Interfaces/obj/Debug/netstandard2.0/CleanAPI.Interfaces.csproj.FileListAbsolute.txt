@@ -1,0 +1,9 @@
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Interfaces\obj\Debug\netstandard2.0\CleanAPI.Interfaces.csprojAssemblyReference.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Interfaces\obj\Debug\netstandard2.0\CleanAPI.Interfaces.AssemblyInfoInputs.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Interfaces\obj\Debug\netstandard2.0\CleanAPI.Interfaces.AssemblyInfo.cs
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Interfaces\obj\Debug\netstandard2.0\CleanAPI.Interfaces.csproj.CoreCompileInputs.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Interfaces\bin\Debug\netstandard2.0\CleanAPI.Interfaces.deps.json
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Interfaces\bin\Debug\netstandard2.0\CleanAPI.Interfaces.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Interfaces\bin\Debug\netstandard2.0\CleanAPI.Interfaces.pdb
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Interfaces\obj\Debug\netstandard2.0\CleanAPI.Interfaces.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Interfaces\obj\Debug\netstandard2.0\CleanAPI.Interfaces.pdb

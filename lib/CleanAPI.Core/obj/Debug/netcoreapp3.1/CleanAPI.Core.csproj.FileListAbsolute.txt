@@ -1,0 +1,9 @@
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core\bin\Debug\netcoreapp3.1\CleanAPI.Core.deps.json
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core\bin\Debug\netcoreapp3.1\CleanAPI.Core.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core\bin\Debug\netcoreapp3.1\CleanAPI.Core.pdb
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core\obj\Debug\netcoreapp3.1\CleanAPI.Core.csprojAssemblyReference.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core\obj\Debug\netcoreapp3.1\CleanAPI.Core.AssemblyInfoInputs.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core\obj\Debug\netcoreapp3.1\CleanAPI.Core.AssemblyInfo.cs
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core\obj\Debug\netcoreapp3.1\CleanAPI.Core.csproj.CoreCompileInputs.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core\obj\Debug\netcoreapp3.1\CleanAPI.Core.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core\obj\Debug\netcoreapp3.1\CleanAPI.Core.pdb

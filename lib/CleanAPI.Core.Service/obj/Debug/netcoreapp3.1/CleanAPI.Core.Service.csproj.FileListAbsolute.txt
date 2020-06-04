@@ -1,0 +1,12 @@
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\bin\Debug\netcoreapp3.1\CleanAPI.Core.Service.deps.json
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\bin\Debug\netcoreapp3.1\CleanAPI.Core.Service.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\bin\Debug\netcoreapp3.1\CleanAPI.Core.Service.pdb
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\bin\Debug\netcoreapp3.1\CleanAPI.Interfaces.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\bin\Debug\netcoreapp3.1\CleanAPI.Interfaces.pdb
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\obj\Debug\netcoreapp3.1\CleanAPI.Core.Service.csprojAssemblyReference.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\obj\Debug\netcoreapp3.1\CleanAPI.Core.Service.AssemblyInfoInputs.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\obj\Debug\netcoreapp3.1\CleanAPI.Core.Service.AssemblyInfo.cs
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\obj\Debug\netcoreapp3.1\CleanAPI.Core.Service.csproj.CoreCompileInputs.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\obj\Debug\netcoreapp3.1\CleanAPI.Core.Service.csproj.CopyComplete
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\obj\Debug\netcoreapp3.1\CleanAPI.Core.Service.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.Service\obj\Debug\netcoreapp3.1\CleanAPI.Core.Service.pdb
