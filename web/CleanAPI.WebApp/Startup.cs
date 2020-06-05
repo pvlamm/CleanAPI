@@ -26,15 +26,26 @@ namespace CleanAPI.WebApp
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            var connectionString = "Server=localhost,1433;Database=cmm;User Id=web;Password=poptarts;";
+            services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
 
             services.AddEntityFrameworkSqlServer()
-                .AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")))
+                .AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString))
                 .AddIdentity<IdentityUser, IdentityRole>(options => {
                     options.User.RequireUniqueEmail = true;
                 })
                 .AddEntityFrameworkStores<AppDbContext>()
                 .AddDefaultTokenProviders();
+
+            // services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            // services.AddEntityFrameworkSqlServer()
+            //     .AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")))
+            //     .AddIdentity<IdentityUser, IdentityRole>(options => {
+            //         options.User.RequireUniqueEmail = true;
+            //     })
+            //     .AddEntityFrameworkStores<AppDbContext>()
+            //     .AddDefaultTokenProviders();
 
             services.AddTransient<IEmailServices, EmailServices>();
 
