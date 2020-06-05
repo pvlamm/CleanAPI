@@ -1,0 +1,9 @@
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\bin\Debug\netstandard2.0\CleanAPI.Core.DataAccess.deps.json
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\bin\Debug\netstandard2.0\CleanAPI.Core.DataAccess.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\bin\Debug\netstandard2.0\CleanAPI.Core.DataAccess.pdb
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netstandard2.0\CleanAPI.Core.DataAccess.csprojAssemblyReference.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netstandard2.0\CleanAPI.Core.DataAccess.AssemblyInfoInputs.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netstandard2.0\CleanAPI.Core.DataAccess.AssemblyInfo.cs
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netstandard2.0\CleanAPI.Core.DataAccess.csproj.CoreCompileInputs.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netstandard2.0\CleanAPI.Core.DataAccess.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netstandard2.0\CleanAPI.Core.DataAccess.pdb

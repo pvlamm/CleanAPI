@@ -1,0 +1,12 @@
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\bin\Debug\netcoreapp3.1\CleanAPI.Core.DataAccess.deps.json
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\bin\Debug\netcoreapp3.1\CleanAPI.Core.DataAccess.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\bin\Debug\netcoreapp3.1\CleanAPI.Core.DataAccess.pdb
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\bin\Debug\netcoreapp3.1\CleanAPI.Core.Entities.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\bin\Debug\netcoreapp3.1\CleanAPI.Core.Entities.pdb
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netcoreapp3.1\CleanAPI.Core.DataAccess.csprojAssemblyReference.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netcoreapp3.1\CleanAPI.Core.DataAccess.AssemblyInfoInputs.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netcoreapp3.1\CleanAPI.Core.DataAccess.AssemblyInfo.cs
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netcoreapp3.1\CleanAPI.Core.DataAccess.csproj.CoreCompileInputs.cache
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netcoreapp3.1\CleanAPI.Core.DataAccess.csproj.CopyComplete
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netcoreapp3.1\CleanAPI.Core.DataAccess.dll
+C:\dev\Github\CleanWebAPI\lib\CleanAPI.Core.DataAccess\obj\Debug\netcoreapp3.1\CleanAPI.Core.DataAccess.pdb

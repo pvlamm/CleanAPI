@@ -1,10 +1,14 @@
+using CleanAPI.Core.DataAccess.Context;
+using CleanAPI.Core.Service.Communication;
+using CleanAPI.Interfaces.Services.Communication;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.SpaServices.AngularCli;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
 
 namespace CleanAPI.WebApp
 {
@@ -21,6 +25,19 @@ namespace CleanAPI.WebApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddEntityFrameworkSqlServer()
+                .AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")))
+                .AddIdentity<IdentityUser, IdentityRole>(options => {
+                    options.User.RequireUniqueEmail = true;
+                })
+                .AddEntityFrameworkStores<AppDbContext>()
+                .AddDefaultTokenProviders();
+
+            services.AddTransient<IEmailServices, EmailServices>();
+
             // In production, the Angular files will be served from this directory
             services.AddSpaStaticFiles(configuration =>
             {
@@ -44,6 +61,9 @@ namespace CleanAPI.WebApp
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+            app.UseAuthentication();
+
             if (!env.IsDevelopment())
             {
                 app.UseSpaStaticFiles();
